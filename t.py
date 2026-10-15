@@ -1,1 +1,1 @@
-print("git is gitty !")
+print("git is amazing !!!")
